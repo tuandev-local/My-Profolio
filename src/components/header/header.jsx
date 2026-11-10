@@ -16,7 +16,7 @@ function Header() {
                 </div>
 
                 <div className="w-8 h-8 rounded-full bg-slate-700 overflow-hidden border border-slate-600">
-                    <img src="./src/assets/IMG_0731.JPG" alt="my-avatar" className="w-full h-full object-cover" />
+                    <img src="/images/IMG_0731.JPG" alt="my-avatar" className="w-full h-full object-cover" />
                 </div>
             </div>
         </>
