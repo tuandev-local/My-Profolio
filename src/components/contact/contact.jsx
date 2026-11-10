@@ -1,3 +1,4 @@
+
 function contact() {
     return (
         <div className="w-full min-h-screen bg-[#0B132B] flex items-center justify-center p-6">
@@ -10,7 +11,7 @@ function contact() {
 
                 <div className="w-full flex justify-center">
                     <img
-                        src="./src/assets/IMG_0818.JPG"
+                        src="/images/IMG_0818.JPG"
                         alt="Zalo QR"
                         className="rounded-xl w-64 h-64 object-cover border border-gray-200 shadow-inner"
                     />

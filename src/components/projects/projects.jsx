@@ -7,9 +7,9 @@ const projectCategories = [
         title: 'M365 Administrators',
         description: 'Entra ID / Admin Center / Exchange Admin / Sharepoint Admin',
         images: [
-            { url: 'src/assets/entraID-overview.png', caption: 'Tenant Overview - EntraID' },
-            { url: 'src/assets/License-Audit.png', caption: 'License Review - Admin center' },
-            { url: 'src/assets/admin-center-health.png', caption: 'Service Health - Admin center' }
+            { url: 'images/entraID-overview.png', caption: 'Tenant Overview - EntraID' },
+            { url: 'images/License-Audit.png', caption: 'License Review - Admin center' },
+            { url: 'images/admin-center-health.png', caption: 'Service Health - Admin center' }
         ]
     },
     {
@@ -17,9 +17,9 @@ const projectCategories = [
         title: 'VoIP System Management',
         description: 'Analog & IP Phone / SIP / Voicegateway',
         images: [
-            { url: 'src/assets/VoiceCloud-Mgmt.png', caption: 'Voice System overview' },
-            { url: 'src/assets/SIP-mgmt.png', caption: 'SIP configuration' },
-            { url: 'src/assets/IVR-setup.png', caption: 'Announcement & IVR' }
+            { url: 'images/VoiceCloud-Mgmt.png', caption: 'Voice System overview' },
+            { url: 'images/SIP-mgmt.png', caption: 'SIP configuration' },
+            { url: 'images/IVR-setup.png', caption: 'Announcement & IVR' }
         ]
     },
     {
@@ -27,8 +27,8 @@ const projectCategories = [
         title: 'IT Operations',
         description: 'Ticket / Asset Management / SLA - Jira',
         images: [
-            { url: 'src/assets/SLA-Goal.png', caption: 'Jira Service Desk SLA Dashboard' },
-            { url: 'src/assets/Asset-Jira.png', caption: 'IT Asset Management Inventory' }
+            { url: 'images/SLA-Goal.png', caption: 'Jira Service Desk SLA Dashboard' },
+            { url: 'images/Asset-Jira.png', caption: 'IT Asset Management Inventory' }
         ]
     },
     {
@@ -36,7 +36,7 @@ const projectCategories = [
         title: 'System Monitoring',
         description: 'Zabbix / Grafana',
         images: [
-            { url: 'src/assets/zabbix-monitoring.png', caption: 'Zabbix Monitoring' }
+            { url: 'images/zabbix-monitoring.png', caption: 'Zabbix Monitoring' }
         ]
     }
 ];
